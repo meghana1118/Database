@@ -1,0 +1,4 @@
+SELECT D.Name AS Department, E.Name AS Employee, E.Salary AS Salary
+FROM Employee E, Department D,
+(SELECT Max(Salary) AS Max, DepartmentId FROM Employee GROUP BY DepartmentId) S
+WHERE E.DepartmentId = D.Id AND E.DepartmentId = S.DepartmentId AND E.Salary = S.Max
