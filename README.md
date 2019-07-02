@@ -1,2 +1,3 @@
 # Database: SQL
-Leetcode SQL question's Solutions
+1: Leetcode MySQL questions and solutions (https://leetcode.com)
+2: PostgresSQL questions (https://pgexercises.com/questions/basic/)
