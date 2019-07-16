@@ -1,4 +1,10 @@
 # Database: SQL
+
+Learning Material
+https://www.udacity.com/course/sql-for-data-analysis--ud198
+
+
+
 Practice questions for beginner level SQL
 
 
