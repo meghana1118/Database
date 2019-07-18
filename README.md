@@ -1,5 +1,11 @@
 # Database: SQL
 
+
+## Reading Material
+
+[Wikipedia on SQL](https://en.wikipedia.org/wiki/SQL).
+
+
 ## Learning Material
 
 [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198).
