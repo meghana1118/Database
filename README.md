@@ -10,8 +10,6 @@
 
 [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198).
 
-7 Lessons:
-
 1: Basic SQL
 
 2: SQL Joins
