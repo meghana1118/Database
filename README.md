@@ -1,12 +1,12 @@
 # Database: SQL
 
-Learning Material
+##Learning Material
 
 https://www.udacity.com/course/sql-for-data-analysis--ud198
 
 
 
-Practice questions for basic SQL
+##Practice questions for basic SQL
 
 
 1: Leetcode MySQL questions and solutions (https://leetcode.com)
@@ -16,6 +16,6 @@ Practice questions for basic SQL
 
 
 
-Interview questions
+##Interview questions
 
 https://towardsdatascience.com/how-to-ace-data-science-interviews-sql-b71de212e433
