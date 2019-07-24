@@ -9,7 +9,7 @@
 
 [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198).
 
-Basics
+#### Basics
 
 1: Basic SQL
 
@@ -17,13 +17,13 @@ Basics
 
 3: SQL Aggregations 
 
-Level 2
+#### Level 2
 
 4: SQL Subqueries and Temporary Tables
 
 5: SQL Data CLeaning
 
-Advanced
+#### Advanced
 
 6: Advanced-SQL Window Functions
 
