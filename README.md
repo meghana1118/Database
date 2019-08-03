@@ -30,10 +30,7 @@
 7: Advanced-SQL Advanced joins and Performance tuning
 
 ### Practice questions for basic SQL
-
-1a: [Udacity Parch & Posey Questions](https://docs.google.com/document/d/1IQ6jkNK-Qit-lOXj_-d56gUDIq0daBA-Bw969GAI9Gw/edit?usp=sharing).
-
-1b: [Udacity Parch & Posey Solutions](https://docs.google.com/document/d/1_pbNI0YaJrRZiDFE3kEU2_BXY_D4R68gVkLQMoTSyUA/edit?usp=sharing).
+1:[Hackerrank](https://Hackerrank.com).
    
 2:[Leetcode MySQL questions](https://leetcode.com).
 
