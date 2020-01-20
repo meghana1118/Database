@@ -25,7 +25,7 @@
 
 #### Advanced
 
-6: Advanced-SQL Window Functions
+6: Advanced-SQL Window Functions (https://www.youtube.com/watch?v=H6OTMoXjNiM)
 
 7: Advanced-SQL Advanced joins and Performance tuning
 
